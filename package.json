@@ -1,7 +1,6 @@
 {
-  "name": "node-string-replace-all
-",
-  "version": "1.0.0",
+  "name": "node-string-replace-all",
+  "version": "1.0.1",
   "description": "Library to make type String with replaceAll method on nodejs.",
   "main": "index.js",
   "exports": {
